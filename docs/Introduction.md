@@ -19,3 +19,11 @@
 
 ### - API responses are given in a structured format called JSON (JavaScript Object Notation). This format makes it easy for clients to read and understand data.
 
+
+## Why use GitHub's REST API?
+
+### - **To automate repetitive tasks**, such as creating repositories, without using the GitHub UI.
+
+### - **To fetch data** from GitHub, such as repository details, without using the GitHub UI.
+
+### - **To integrate GitHub with other tools**, where you can connect GitHub with other softwares automatically.
