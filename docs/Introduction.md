@@ -26,4 +26,4 @@
 
 ### - **To fetch data** from GitHub, such as repository details, without using the GitHub UI.
 
-### - **To integrate GitHub with other tools**, where you can connect GitHub with other softwares automatically.
+### - **To integrate GitHub with other tools**, where you can connect GitHub with other software automatically.
