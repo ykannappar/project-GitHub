@@ -37,7 +37,7 @@ The **REST API** facilitates communication between the client (you) and GitHub. 
 |-----:|------------:|--------------------:|:-------------|                                                       
 |Get user details|GET|/users/{username}|Fetches user profile|
 |Get repo details|GET|/repos/{owner}/{repo}|Fetches repository info|
-|                                                         | 
-|                                                         |
-|                                                         |
-|                                                         | 
+|Create a repository|POST|/user/repos|Creates a new repository| 
+|Update repo settings|PATCH|/repos/{owner}/{repo}|Edits repository settings|
+|Replace repo content|PUT|/repos/{owner}/{repo}/contents/{path}|Creates or replaces a file in a repository|
+|Delete a repository|DELETE|/repos/{owner}/{repo}|Deletes a repository|
