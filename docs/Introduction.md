@@ -15,7 +15,7 @@
 
 * The GitHub REST API allows clients (applications, users or services) to interact with GitHub's resources, such as its repositories, issues, users and more.
 
-* The REST API uses **HTTP methods** such as: **GET**, **POST**, **PATCH**, **PUT** and **DELETE**, to retrieve or modify GitHub data.
+* The REST API uses **HTTP** methods such as: **GET**, **POST**, **PATCH**, **PUT** and **DELETE**, to retrieve or modify GitHub data.
 
 * API responses are given in a structured format called **JSON** (JavaScript Object Notation). This format makes it easy for clients to read and understand data.
 
