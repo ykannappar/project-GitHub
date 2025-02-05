@@ -10,9 +10,9 @@
 
     **Probable Fix**: 
 
-       * Double-check the endpoint URL (e.g., /users/{username}).
+      * Double-check the endpoint URL (e.g., /users/{username}).
 
-       * Check if the resource exists.
+      * Check if the resource exists.
 
 2. Issue: **"Unauthorized" (401)**
 
