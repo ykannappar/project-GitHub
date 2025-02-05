@@ -6,7 +6,7 @@
 
 ## What is an API?
 
-* Stands for "Application Programming Interface"
+* Stands for: **Application Programming Interface**
 
 * Set of rules and protocols, which allows different software applications to communicate with each other.
 
