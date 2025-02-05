@@ -32,7 +32,7 @@
 
     **Probable Fix**:
 
-      * Check rate limit status with: GET "https://api.github.com/rate_limit"
+      * Check rate limit status with: **GET https://api.github.com/rate_limit**
 
       * Wait for rate limit to reset, or authenticate with a Personal Access Token.
 
