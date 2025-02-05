@@ -13,7 +13,7 @@
     * **postman** is recommended for beginners
     * **cURL** is efficient and fast
 
-3. A basic understanding of HTTP Requests.
+3. A basic understanding of **HTTP Requests**.
 
 4. Knowing how to retrieve a **Personal Access Token (PAT)** to access private repositories.
 
