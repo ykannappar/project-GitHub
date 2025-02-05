@@ -10,8 +10,8 @@
 1. A GitHub Account.
 
 2. An API Tool - You will use this to send API requests.
-    * **Postman** is recommended for beginners
-    * **cURL** is efficient and fast
+    * **Postman** is recommended for beginners.
+    * **cURL** is efficient and fast.
 
 3. A basic understanding of **HTTP Requests**.
 
