@@ -56,6 +56,7 @@
 
       * It could be a temporary issue. Wait a few minutes then retry the request again.
 
+
 ## How to Debug API Requests
 
 * Check the API Response 
@@ -71,4 +72,3 @@
 
   * **Authenticate properly** - Ensure that the Personal Access Token is included for endpoints that require necessary authentication.
 
-  
