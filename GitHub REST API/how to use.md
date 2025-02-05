@@ -41,3 +41,14 @@ The **REST API** facilitates communication between the client (you) and GitHub. 
 |Update repo settings|PATCH|/repos/{owner}/{repo}|Edits repository settings|
 |Replace repo content|PUT|/repos/{owner}/{repo}/contents/{path}|Creates or replaces a file in a repository|
 |Delete a repository|DELETE|/repos/{owner}/{repo}|Deletes a repository|
+
+
+## Example: Using Postman to retrieve profile details on GitHub
+
+1. Download Postman.
+
+2. Enter *https://api.github.com/users/{username}* in the search bar, and input the desired *username*.
+
+3. Select **GET** as the method.
+
+4. Press **Send**, and data should be returned in **JSON format** about the profile.
