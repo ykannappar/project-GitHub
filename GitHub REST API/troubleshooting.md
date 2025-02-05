@@ -59,16 +59,16 @@
 
 ## How to Debug API Requests
 
-* Check the API Response 
+Check the API Response 
 
-  * **Review the API response** - It should contain the HTTP status code (e.g., 404) and a message in JSON format.
+* **Review the API response** - It should contain the HTTP status code (e.g., 404) and a message in JSON format.
 
-  * **Verify the request** - Ensure the following is correct:
-      * Endpoint URL
-      * HTTP Method
-      * Required parameters
+* **Verify the request** - Ensure the following is correct:
+  * Endpoint URL
+  * HTTP Method
+  * Required parameters
 
-  * **Test with Postman or cURL** 
+* **Test with Postman or cURL** 
 
-  * **Authenticate properly** - Ensure that the Personal Access Token is included for endpoints that require necessary authentication.
+* **Authenticate properly** - Ensure that the Personal Access Token is included for endpoints that require necessary authentication.
 
