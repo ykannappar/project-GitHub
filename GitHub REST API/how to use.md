@@ -20,7 +20,7 @@
 
 ## Understanding how the REST API works
 
-**The **REST API** facilitates communication between the client (you) and GitHub. Thereby, acting as a **messenger**.
+The **REST API** facilitates communication between the client (you) and GitHub. Thereby, acting as a **messenger**.
 
 1. A request can be sent to GitHub's **API** to perform a specific **task** (e.g.,retrieving user details).
 
