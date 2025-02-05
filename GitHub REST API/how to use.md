@@ -30,3 +30,14 @@ The **REST API** facilitates communication between the client (you) and GitHub. 
 
 4. The API processes the request, retrieves the data, and sends a response back in **JSON format**.
 
+
+## Table 1.1
+
+| Task | HTTP Method | GitHub API Endpoint | What it does |
+|-----:|------------:|--------------------:|:-------------|                                                       
+|Get user details                                         |
+|                                                         |
+|                                                         | 
+|                                                         |
+|                                                         |
+|                                                         | 
