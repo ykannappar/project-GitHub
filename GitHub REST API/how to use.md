@@ -51,4 +51,4 @@ The **REST API** facilitates communication between the client (you) and GitHub. 
 
 3. Select **GET** as the method.
 
-4. Press **Send**, and data should be returned in **JSON format** about the profile.
+4. Press **Send**, and data should be returned below in **JSON format** about the profile.
