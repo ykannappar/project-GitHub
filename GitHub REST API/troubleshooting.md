@@ -8,18 +8,18 @@
 
     **Probable cause**: An incorrct endpoint or resource was used, which does not exist.
 
-    **Fix**: 
+    **Probable Fix**: 
 
-        * Double-check the endpoint URL (e.g., /users/{username}).
+       * Double-check the endpoint URL (e.g., /users/{username}).
 
-        * Check if the resource exists.
+       * Check if the resource exists.
 
 2. Issue: **"Unauthorized" (401)**
 
     **Probable cause**: An authentication is required, but missing or invalid.
 
-    **Fix**: 
+    **Probable Fix**: 
 
-        * Add a Personal Access Token in your request. It can be obtained from your account on GitHub.
+      * Add a Personal Access Token in your request. It can be obtained from your account on GitHub.
 
-        * In Postman, add the token within the Authorization header.
+      * In Postman, add the token within the Authorization header.
