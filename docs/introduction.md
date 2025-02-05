@@ -8,7 +8,7 @@
 
 * Stands for: **Application Programming Interface**
 
-* Set of rules and protocols, which allows different software applications to communicate with each other.
+* Set of rules and protocols, which allow different software applications to communicate with each other.
 
 
 ## What is the GitHub REST API?
