@@ -2,7 +2,7 @@
 
 **The following steps are simplified for beginners to help you get started with the GitHub REST API.**
 
-## What you need to get started :
+## What you need to get started
 
 1. A GitHub Account.
 
