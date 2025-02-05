@@ -35,8 +35,8 @@ The **REST API** facilitates communication between the client (you) and GitHub. 
 
 | Task | HTTP Method | GitHub API Endpoint | What it does |
 |-----:|------------:|--------------------:|:-------------|                                                       
-|Get user details| GET |  /users/{username} | Fetches user profile                                      |
-|                                                         |
+|Get user details|GET|/users/{username}|Fetches user profile|
+|Get repo details|GET|/repos/{owner}/{repo}|Fetches repository info|
 |                                                         | 
 |                                                         |
 |                                                         |
