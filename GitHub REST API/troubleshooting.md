@@ -6,7 +6,7 @@
 
 1. Issue: **"Not Found" (404)**
 
-    **Probable cause**: An incorrct endpoint or resource was used, which does not exist.
+    **Probable Cause**: An incorrct endpoint or resource was used, which does not exist.
 
     **Probable Fix**: 
 
@@ -16,7 +16,7 @@
 
 2. Issue: **"Unauthorized" (401)**
 
-    **Probable cause**: An authentication is required, but missing or invalid.
+    **Probable Cause**: An authentication is required, but missing or invalid.
 
     **Probable Fix**: 
 
