@@ -28,5 +28,5 @@ The **REST API** facilitates communication between the client (you) and GitHub. 
 
 3. The type of **HTTP method** determine what action is performed on that specific endpoint (e.g., **GET** /users/{username} -> fetches user details)
 
-4. The API processes your request, retrieves the data, and sends a response back in **JSON format**.
+4. The API processes the request, retrieves the data, and sends a response back in **JSON format**.
 
